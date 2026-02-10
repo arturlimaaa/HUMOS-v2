@@ -1,5 +1,5 @@
 """
-World2Data Pipeline Configuration
+Pipeline Configuration
 Action-Centric Ground Truth Engine for Humanoid Navigation
 """
 from pathlib import Path

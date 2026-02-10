@@ -1,5 +1,5 @@
 """
-World2Data: Action-Centric Ground Truth Generation for Humanoid Navigation
+Action-Centric Ground Truth Generation for Humanoid Navigation
 
 Watches humans in egocentric video and generates structured action programs
 (verb + noun + temporal boundaries + preconditions/effects).
@@ -216,7 +216,7 @@ def run_pipeline(
 
 def main():
     parser = argparse.ArgumentParser(
-        description="World2Data: Action-Centric Ground Truth for Humanoid Navigation"
+        description="HUMOS-v2: Action-Centric Ground Truth for Humanoid Navigation"
     )
     parser.add_argument("video", help="Path to input video")
     parser.add_argument("-o", "--output", help="Output directory", default=None)

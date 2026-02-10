@@ -64,7 +64,7 @@ def generate_report(pipeline_output: dict) -> dict:
 def print_report(report: dict):
     """Pretty-print evaluation report."""
     print("\n" + "=" * 55)
-    print("  WORLD2DATA ACTION RECOGNITION REPORT")
+    print("  HUMOS-v2 ACTION RECOGNITION REPORT")
     print("=" * 55)
 
     stats = report.get("pipeline_stats", {})

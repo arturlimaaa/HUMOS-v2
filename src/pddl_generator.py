@@ -33,7 +33,7 @@ def generate_pddl(steps: list[ActionStep], video_info: dict | None = None) -> st
             all_predicates.add(pname)
 
     # ── Domain ─────────────────────────────────────────────────────
-    domain = """;; World2Data Auto-Generated PDDL Domain
+    domain = """;; HUMOS-v2 Auto-Generated PDDL Domain
 ;; Action-Centric Ground Truth for Humanoid Navigation
 ;; Generated from egocentric video analysis
 
@@ -114,7 +114,7 @@ def generate_pddl(steps: list[ActionStep], video_info: dict | None = None) -> st
             pred = p.replace("(", " ").replace(")", "").replace(",", "").strip()
             init_preds.append(f"    ({pred})")
 
-    problem = f""";; World2Data Auto-Generated PDDL Problem
+    problem = f""";; HUMOS-v2 Auto-Generated PDDL Problem
 {video_comment}
 (define (problem observed-actions)
   (:domain kitchen-actions)

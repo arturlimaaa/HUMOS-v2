@@ -1,4 +1,4 @@
-;; World2Data PDDL Domain
+;; HUMOS-v2 PDDL Domain
 ;; Action-Centric Ground Truth for Humanoid Navigation
 ;;
 ;; Defines kitchen action types that a robot task planner can consume.

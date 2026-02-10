@@ -1,5 +1,5 @@
 """
-World2Data -- Action Segment Review UI
+Action Segment Review UI
 
 Tab 1: Action Segments -- review predicted actions, correct verb/noun
 Tab 2: Epic-Kitchens Eval -- compare against GT, view metrics
@@ -185,8 +185,8 @@ def get_program_text():
 # ── Build UI ──────────────────────────────────────────────────────────
 
 def build_app():
-    with gr.Blocks(title="World2Data Action Engine", theme=gr.themes.Soft()) as app:
-        gr.Markdown("# World2Data: Action Ground Truth Engine")
+    with gr.Blocks(title="HUMOS-v2 Action Engine", theme=gr.themes.Soft()) as app:
+        gr.Markdown("# HUMOS-v2: Action Ground Truth Engine")
         gr.Markdown("Review and correct action segments. Corrections improve future predictions via the few-shot bank.")
 
         with gr.Row():

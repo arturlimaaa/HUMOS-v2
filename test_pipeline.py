@@ -1,5 +1,5 @@
 """
-Smoke tests for the action-centric World2Data pipeline.
+Smoke tests for the action-centric HUMOS-v2 pipeline.
 """
 import sys
 import json
@@ -176,7 +176,7 @@ def test_visualization():
 
 if __name__ == "__main__":
     print("=" * 55)
-    print("World2Data Action Pipeline -- Smoke Tests")
+    print("HUMOS-v2 Action Pipeline -- Smoke Tests")
     print("=" * 55)
 
     tests = [

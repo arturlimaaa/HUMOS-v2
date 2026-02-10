@@ -1,1 +1,1 @@
-# World2Data Pipeline - Source Package
+# HUMOS-v2 Pipeline - Source Package
