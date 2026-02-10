@@ -1,0 +1,4972 @@
+{
+  "video": {
+    "path": "/Users/artur/NavGraph-v2/data/videos/demo.mp4",
+    "fps": 29.953261532208902,
+    "total_frames": 737,
+    "width": 720,
+    "height": 1280,
+    "duration_sec": 24.605,
+    "sample_rate": 5
+  },
+  "frames": [
+    {
+      "frame_idx": 0,
+      "timestamp_sec": 0.0,
+      "objects": []
+    },
+    {
+      "frame_idx": 5,
+      "timestamp_sec": 0.167,
+      "objects": []
+    },
+    {
+      "frame_idx": 10,
+      "timestamp_sec": 0.334,
+      "objects": []
+    },
+    {
+      "frame_idx": 15,
+      "timestamp_sec": 0.501,
+      "objects": []
+    },
+    {
+      "frame_idx": 20,
+      "timestamp_sec": 0.668,
+      "objects": []
+    },
+    {
+      "frame_idx": 25,
+      "timestamp_sec": 0.835,
+      "objects": []
+    },
+    {
+      "frame_idx": 30,
+      "timestamp_sec": 1.002,
+      "objects": []
+    },
+    {
+      "frame_idx": 35,
+      "timestamp_sec": 1.168,
+      "objects": []
+    },
+    {
+      "frame_idx": 40,
+      "timestamp_sec": 1.335,
+      "objects": []
+    },
+    {
+      "frame_idx": 45,
+      "timestamp_sec": 1.502,
+      "objects": []
+    },
+    {
+      "frame_idx": 50,
+      "timestamp_sec": 1.669,
+      "objects": []
+    },
+    {
+      "frame_idx": 55,
+      "timestamp_sec": 1.836,
+      "objects": []
+    },
+    {
+      "frame_idx": 60,
+      "timestamp_sec": 2.003,
+      "objects": []
+    },
+    {
+      "frame_idx": 65,
+      "timestamp_sec": 2.17,
+      "objects": []
+    },
+    {
+      "frame_idx": 70,
+      "timestamp_sec": 2.337,
+      "objects": [
+        {
+          "track_id": 0,
+          "class_name": "vase",
+          "bbox": [
+            486.6593322753906,
+            881.710205078125,
+            577.2645263671875,
+            1061.83447265625
+          ],
+          "confidence": 0.4230809211730957,
+          "state": "static",
+          "state_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_idx": 75,
+      "timestamp_sec": 2.504,
+      "objects": [
+        {
+          "track_id": 0,
+          "class_name": "vase",
+          "bbox": [
+            476.5985107421875,
+            927.3883056640625,
+            577.308837890625,
+            1112.989013671875
+          ],
+          "confidence": 0.4679756760597229,
+          "state": "static",
+          "state_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_idx": 80,
+      "timestamp_sec": 2.671,
+      "objects": []
+    },
+    {
+      "frame_idx": 85,
+      "timestamp_sec": 2.838,
+      "objects": [
+        {
+          "track_id": 1,
+          "class_name": "vase",
+          "bbox": [
+            427.494384765625,
+            1053.50927734375,
+            520.2039184570312,
+            1183.0185546875
+          ],
+          "confidence": 0.5716741681098938,
+          "state": "static",
+          "state_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_idx": 90,
+      "timestamp_sec": 3.005,
+      "objects": []
+    },
+    {
+      "frame_idx": 95,
+      "timestamp_sec": 3.172,
+      "objects": []
+    },
+    {
+      "frame_idx": 100,
+      "timestamp_sec": 3.339,
+      "objects": []
+    },
+    {
+      "frame_idx": 105,
+      "timestamp_sec": 3.505,
+      "objects": []
+    },
+    {
+      "frame_idx": 110,
+      "timestamp_sec": 3.672,
+      "objects": []
+    },
+    {
+      "frame_idx": 115,
+      "timestamp_sec": 3.839,
+      "objects": []
+    },
+    {
+      "frame_idx": 120,
+      "timestamp_sec": 4.006,
+      "objects": []
+    },
+    {
+      "frame_idx": 125,
+      "timestamp_sec": 4.173,
+      "objects": []
+    },
+    {
+      "frame_idx": 130,
+      "timestamp_sec": 4.34,
+      "objects": []
+    },
+    {
+      "frame_idx": 135,
+      "timestamp_sec": 4.507,
+      "objects": []
+    },
+    {
+      "frame_idx": 140,
+      "timestamp_sec": 4.674,
+      "objects": []
+    },
+    {
+      "frame_idx": 145,
+      "timestamp_sec": 4.841,
+      "objects": []
+    },
+    {
+      "frame_idx": 150,
+      "timestamp_sec": 5.008,
+      "objects": []
+    },
+    {
+      "frame_idx": 155,
+      "timestamp_sec": 5.175,
+      "objects": []
+    },
+    {
+      "frame_idx": 160,
+      "timestamp_sec": 5.342,
+      "objects": [
+        {
+          "track_id": 2,
+          "class_name": "refrigerator",
+          "bbox": [
+            446.3435363769531,
+            1.443206787109375,
+            718.9873046875,
+            371.3116455078125
+          ],
+          "confidence": 0.35130518674850464,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 165,
+      "timestamp_sec": 5.509,
+      "objects": []
+    },
+    {
+      "frame_idx": 170,
+      "timestamp_sec": 5.676,
+      "objects": []
+    },
+    {
+      "frame_idx": 175,
+      "timestamp_sec": 5.842,
+      "objects": []
+    },
+    {
+      "frame_idx": 180,
+      "timestamp_sec": 6.009,
+      "objects": [
+        {
+          "track_id": 3,
+          "class_name": "refrigerator",
+          "bbox": [
+            475.34765625,
+            51.5225830078125,
+            686.2275390625,
+            1271.19140625
+          ],
+          "confidence": 0.44290637969970703,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 185,
+      "timestamp_sec": 6.176,
+      "objects": [
+        {
+          "track_id": 3,
+          "class_name": "refrigerator",
+          "bbox": [
+            465.3684997558594,
+            111.915771484375,
+            717.4466552734375,
+            1259.0428466796875
+          ],
+          "confidence": 0.6392868757247925,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 190,
+      "timestamp_sec": 6.343,
+      "objects": [
+        {
+          "track_id": 3,
+          "class_name": "refrigerator",
+          "bbox": [
+            462.88201904296875,
+            137.7989501953125,
+            719.3003540039062,
+            1273.4248046875
+          ],
+          "confidence": 0.7130296230316162,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 195,
+      "timestamp_sec": 6.51,
+      "objects": [
+        {
+          "track_id": 3,
+          "class_name": "refrigerator",
+          "bbox": [
+            467.87335205078125,
+            157.9456787109375,
+            720.0,
+            1116.2801513671875
+          ],
+          "confidence": 0.6179704666137695,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 200,
+      "timestamp_sec": 6.677,
+      "objects": []
+    },
+    {
+      "frame_idx": 205,
+      "timestamp_sec": 6.844,
+      "objects": []
+    },
+    {
+      "frame_idx": 210,
+      "timestamp_sec": 7.011,
+      "objects": []
+    },
+    {
+      "frame_idx": 215,
+      "timestamp_sec": 7.178,
+      "objects": []
+    },
+    {
+      "frame_idx": 220,
+      "timestamp_sec": 7.345,
+      "objects": []
+    },
+    {
+      "frame_idx": 225,
+      "timestamp_sec": 7.512,
+      "objects": [
+        {
+          "track_id": 3,
+          "class_name": "refrigerator",
+          "bbox": [
+            321.4671630859375,
+            176.431396484375,
+            715.8800048828125,
+            1138.775634765625
+          ],
+          "confidence": 0.3731253445148468,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 230,
+      "timestamp_sec": 7.679,
+      "objects": [
+        {
+          "track_id": 4,
+          "class_name": "refrigerator",
+          "bbox": [
+            623.389404296875,
+            280.77587890625,
+            718.74658203125,
+            716.880615234375
+          ],
+          "confidence": 0.6422094702720642,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 235,
+      "timestamp_sec": 7.846,
+      "objects": [
+        {
+          "track_id": 5,
+          "class_name": "refrigerator",
+          "bbox": [
+            451.048095703125,
+            306.1048889160156,
+            689.62841796875,
+            732.4691162109375
+          ],
+          "confidence": 0.9307458996772766,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.7149658203125,
+            204.81982421875,
+            324.73468017578125,
+            1204.221435546875
+          ],
+          "confidence": 0.7327057719230652,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 240,
+      "timestamp_sec": 8.012,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            1.4764251708984375,
+            224.5517578125,
+            203.4468994140625,
+            1276.017333984375
+          ],
+          "confidence": 0.7535329461097717,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 7,
+          "class_name": "refrigerator",
+          "bbox": [
+            324.59844970703125,
+            335.19903564453125,
+            563.123779296875,
+            762.0391235351562
+          ],
+          "confidence": 0.9281567931175232,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 8,
+          "class_name": "microwave",
+          "bbox": [
+            558.54345703125,
+            442.15423583984375,
+            656.304443359375,
+            517.5835571289062
+          ],
+          "confidence": 0.7536564469337463,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            591.1541137695312,
+            636.9241943359375,
+            648.0296020507812,
+            920.5594482421875
+          ],
+          "confidence": 0.4116881787776947,
+          "state": "static",
+          "state_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_idx": 245,
+      "timestamp_sec": 8.179,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            1.3302116394042969,
+            241.225830078125,
+            110.48960876464844,
+            1236.1536865234375
+          ],
+          "confidence": 0.5086837410926819,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 7,
+          "class_name": "refrigerator",
+          "bbox": [
+            237.6607666015625,
+            352.6669921875,
+            478.3436279296875,
+            785.0867919921875
+          ],
+          "confidence": 0.9378718137741089,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 8,
+          "class_name": "microwave",
+          "bbox": [
+            572.6107788085938,
+            461.28131103515625,
+            686.4032592773438,
+            534.7713623046875
+          ],
+          "confidence": 0.8606680631637573,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            514.1072998046875,
+            658.5808715820312,
+            669.4034423828125,
+            955.6310424804688
+          ],
+          "confidence": 0.8825311660766602,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 10,
+          "class_name": "microwave",
+          "bbox": [
+            476.1693115234375,
+            464.944580078125,
+            576.21044921875,
+            535.2747802734375
+          ],
+          "confidence": 0.7660184502601624,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 250,
+      "timestamp_sec": 8.346,
+      "objects": [
+        {
+          "track_id": 7,
+          "class_name": "refrigerator",
+          "bbox": [
+            160.5218963623047,
+            351.6163024902344,
+            406.16815185546875,
+            797.9947509765625
+          ],
+          "confidence": 0.9429200291633606,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            452.2154235839844,
+            660.7618408203125,
+            671.4713134765625,
+            970.6802978515625
+          ],
+          "confidence": 0.8856393694877625,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 10,
+          "class_name": "microwave",
+          "bbox": [
+            498.6212158203125,
+            463.16302490234375,
+            618.7904052734375,
+            535.9061279296875
+          ],
+          "confidence": 0.8984947204589844,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 11,
+          "class_name": "dining table",
+          "bbox": [
+            514.5927124023438,
+            625.749267578125,
+            719.5253295898438,
+            1012.532958984375
+          ],
+          "confidence": 0.8540471196174622,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 12,
+          "class_name": "microwave",
+          "bbox": [
+            660.699951171875,
+            345.675048828125,
+            718.7059326171875,
+            434.68719482421875
+          ],
+          "confidence": 0.7868615388870239,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 13,
+          "class_name": "oven",
+          "bbox": [
+            618.06689453125,
+            467.62841796875,
+            720.0,
+            627.751220703125
+          ],
+          "confidence": 0.6880051493644714,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 14,
+          "class_name": "microwave",
+          "bbox": [
+            402.7283935546875,
+            467.2479248046875,
+            503.11474609375,
+            537.8641967773438
+          ],
+          "confidence": 0.6870957016944885,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 255,
+      "timestamp_sec": 8.513,
+      "objects": [
+        {
+          "track_id": 7,
+          "class_name": "refrigerator",
+          "bbox": [
+            79.10025024414062,
+            339.802490234375,
+            332.7672424316406,
+            801.651611328125
+          ],
+          "confidence": 0.9361991286277771,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            386.9638977050781,
+            655.3182373046875,
+            605.11474609375,
+            967.9005126953125
+          ],
+          "confidence": 0.8945519328117371,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 11,
+          "class_name": "dining table",
+          "bbox": [
+            447.04803466796875,
+            610.4869384765625,
+            719.2711791992188,
+            1005.291748046875
+          ],
+          "confidence": 0.9206386208534241,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 12,
+          "class_name": "microwave",
+          "bbox": [
+            577.9210815429688,
+            333.85107421875,
+            717.4215698242188,
+            421.86474609375
+          ],
+          "confidence": 0.82418292760849,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 13,
+          "class_name": "oven",
+          "bbox": [
+            538.69580078125,
+            454.9197082519531,
+            719.91552734375,
+            620.572021484375
+          ],
+          "confidence": 0.8858540058135986,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 14,
+          "class_name": "microwave",
+          "bbox": [
+            422.01177978515625,
+            451.94415283203125,
+            539.4876708984375,
+            527.687744140625
+          ],
+          "confidence": 0.771126925945282,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            326.46612548828125,
+            454.12481689453125,
+            427.70648193359375,
+            530.9485473632812
+          ],
+          "confidence": 0.35690706968307495,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 260,
+      "timestamp_sec": 8.68,
+      "objects": [
+        {
+          "track_id": 7,
+          "class_name": "refrigerator",
+          "bbox": [
+            28.235015869140625,
+            325.28948974609375,
+            273.6563720703125,
+            807.0521850585938
+          ],
+          "confidence": 0.9295290112495422,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            343.1324462890625,
+            649.6188354492188,
+            560.5934448242188,
+            970.4290161132812
+          ],
+          "confidence": 0.8971606492996216,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 11,
+          "class_name": "dining table",
+          "bbox": [
+            401.893310546875,
+            594.9415283203125,
+            719.384033203125,
+            1000.4027099609375
+          ],
+          "confidence": 0.9132401943206787,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 13,
+          "class_name": "oven",
+          "bbox": [
+            479.07623291015625,
+            438.4656066894531,
+            684.1036987304688,
+            609.837158203125
+          ],
+          "confidence": 0.8667283654212952,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            360.63519287109375,
+            438.40362548828125,
+            476.96490478515625,
+            517.0799560546875
+          ],
+          "confidence": 0.8755967020988464,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 16,
+          "class_name": "microwave",
+          "bbox": [
+            515.5098876953125,
+            316.24139404296875,
+            649.0423583984375,
+            408.20806884765625
+          ],
+          "confidence": 0.9339708089828491,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 17,
+          "class_name": "microwave",
+          "bbox": [
+            264.25360107421875,
+            444.207275390625,
+            354.2938232421875,
+            520.283203125
+          ],
+          "confidence": 0.6617580652236938,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 265,
+      "timestamp_sec": 8.847,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            1.98345947265625,
+            313.0067138671875,
+            241.50894165039062,
+            809.098388671875
+          ],
+          "confidence": 0.9606117010116577,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            316.7708740234375,
+            643.31982421875,
+            538.744140625,
+            971.595947265625
+          ],
+          "confidence": 0.8958977460861206,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 11,
+          "class_name": "dining table",
+          "bbox": [
+            369.7720031738281,
+            585.6580810546875,
+            720.0,
+            1000.9698486328125
+          ],
+          "confidence": 0.8908036351203918,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 13,
+          "class_name": "oven",
+          "bbox": [
+            440.9482421875,
+            423.94891357421875,
+            648.2191162109375,
+            599.8511962890625
+          ],
+          "confidence": 0.892778754234314,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            325.20196533203125,
+            426.11004638671875,
+            440.86053466796875,
+            505.48419189453125
+          ],
+          "confidence": 0.8532825708389282,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 16,
+          "class_name": "microwave",
+          "bbox": [
+            477.32763671875,
+            302.33880615234375,
+            608.4066162109375,
+            392.73468017578125
+          ],
+          "confidence": 0.9065184593200684,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 17,
+          "class_name": "microwave",
+          "bbox": [
+            227.0630645751953,
+            431.4688720703125,
+            329.26080322265625,
+            512.1729736328125
+          ],
+          "confidence": 0.6548736095428467,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 18,
+          "class_name": "chair",
+          "bbox": [
+            598.31103515625,
+            697.1629638671875,
+            719.150146484375,
+            1015.4473876953125
+          ],
+          "confidence": 0.5904208421707153,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 19,
+          "class_name": "chair",
+          "bbox": [
+            406.714599609375,
+            591.208251953125,
+            518.5609130859375,
+            618.672607421875
+          ],
+          "confidence": 0.3767395615577698,
+          "state": "static",
+          "state_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_idx": 270,
+      "timestamp_sec": 9.014,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.6179275512695312,
+            293.862060546875,
+            221.1708984375,
+            809.3956298828125
+          ],
+          "confidence": 0.9639620780944824,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            300.1240234375,
+            636.830322265625,
+            530.5750732421875,
+            977.7744140625
+          ],
+          "confidence": 0.9203073382377625,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 11,
+          "class_name": "dining table",
+          "bbox": [
+            353.3826599121094,
+            574.296630859375,
+            720.0,
+            998.7490234375
+          ],
+          "confidence": 0.8874771595001221,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 13,
+          "class_name": "oven",
+          "bbox": [
+            421.7871398925781,
+            407.5523681640625,
+            632.032470703125,
+            589.6051025390625
+          ],
+          "confidence": 0.9075763821601868,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            300.7205505371094,
+            410.37249755859375,
+            422.1702575683594,
+            492.21307373046875
+          ],
+          "confidence": 0.8038743138313293,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 16,
+          "class_name": "microwave",
+          "bbox": [
+            457.7060852050781,
+            283.29315185546875,
+            592.072998046875,
+            376.32098388671875
+          ],
+          "confidence": 0.9302135109901428,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 17,
+          "class_name": "microwave",
+          "bbox": [
+            201.61679077148438,
+            418.46795654296875,
+            306.0536193847656,
+            499.48724365234375
+          ],
+          "confidence": 0.7046470046043396,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 18,
+          "class_name": "chair",
+          "bbox": [
+            591.7852783203125,
+            689.9410400390625,
+            719.2589111328125,
+            1012.7091064453125
+          ],
+          "confidence": 0.5165080428123474,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 19,
+          "class_name": "chair",
+          "bbox": [
+            391.03472900390625,
+            580.5322265625,
+            503.64422607421875,
+            608.9110107421875
+          ],
+          "confidence": 0.4459180533885956,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 20,
+          "class_name": "chair",
+          "bbox": [
+            666.4229736328125,
+            688.35546875,
+            719.4893798828125,
+            1017.722900390625
+          ],
+          "confidence": 0.4680469036102295,
+          "state": "static",
+          "state_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_idx": 275,
+      "timestamp_sec": 9.181,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.9820632934570312,
+            272.236572265625,
+            217.324462890625,
+            806.058349609375
+          ],
+          "confidence": 0.9651210308074951,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            298.0308837890625,
+            631.7492065429688,
+            540.1009521484375,
+            985.3318481445312
+          ],
+          "confidence": 0.9306411743164062,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 11,
+          "class_name": "dining table",
+          "bbox": [
+            354.807861328125,
+            565.2708740234375,
+            720.0,
+            1007.337890625
+          ],
+          "confidence": 0.9099591970443726,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 13,
+          "class_name": "oven",
+          "bbox": [
+            424.4622497558594,
+            395.52105712890625,
+            638.0867919921875,
+            583.2643432617188
+          ],
+          "confidence": 0.8626813888549805,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            302.00146484375,
+            396.11993408203125,
+            424.3883056640625,
+            480.68048095703125
+          ],
+          "confidence": 0.7856913208961487,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 16,
+          "class_name": "microwave",
+          "bbox": [
+            465.3673095703125,
+            265.79290771484375,
+            600.2772216796875,
+            362.15826416015625
+          ],
+          "confidence": 0.898634672164917,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 17,
+          "class_name": "microwave",
+          "bbox": [
+            197.63229370117188,
+            403.7359313964844,
+            307.5979919433594,
+            487.3343200683594
+          ],
+          "confidence": 0.7706251740455627,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 19,
+          "class_name": "chair",
+          "bbox": [
+            392.92816162109375,
+            571.707763671875,
+            506.42169189453125,
+            601.311767578125
+          ],
+          "confidence": 0.47195661067962646,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 20,
+          "class_name": "chair",
+          "bbox": [
+            677.3206787109375,
+            689.4714965820312,
+            719.6583251953125,
+            942.6937866210938
+          ],
+          "confidence": 0.3659505248069763,
+          "state": "static",
+          "state_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_idx": 280,
+      "timestamp_sec": 9.348,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.8145828247070312,
+            261.23333740234375,
+            235.41748046875,
+            812.1290893554688
+          ],
+          "confidence": 0.9607113599777222,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            319.8251953125,
+            636.193115234375,
+            572.018798828125,
+            1012.9365234375
+          ],
+          "confidence": 0.9252334833145142,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 11,
+          "class_name": "dining table",
+          "bbox": [
+            385.1654052734375,
+            568.882568359375,
+            720.0,
+            1045.3416748046875
+          ],
+          "confidence": 0.9261079430580139,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 13,
+          "class_name": "oven",
+          "bbox": [
+            455.15863037109375,
+            392.09228515625,
+            677.7979125976562,
+            587.188720703125
+          ],
+          "confidence": 0.8899669051170349,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            328.8747253417969,
+            392.65185546875,
+            455.2494812011719,
+            478.19384765625
+          ],
+          "confidence": 0.8199974298477173,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 16,
+          "class_name": "microwave",
+          "bbox": [
+            494.6875,
+            256.856201171875,
+            640.704345703125,
+            356.6854248046875
+          ],
+          "confidence": 0.9272700548171997,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 17,
+          "class_name": "microwave",
+          "bbox": [
+            222.3917694091797,
+            394.84075927734375,
+            332.99835205078125,
+            485.62286376953125
+          ],
+          "confidence": 0.5530757904052734,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 19,
+          "class_name": "chair",
+          "bbox": [
+            417.66693115234375,
+            575.33251953125,
+            544.9629516601562,
+            606.025146484375
+          ],
+          "confidence": 0.5699643492698669,
+          "state": "static",
+          "state_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_idx": 285,
+      "timestamp_sec": 9.515,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            1.60333251953125,
+            254.753173828125,
+            279.67889404296875,
+            824.6923828125
+          ],
+          "confidence": 0.9653283953666687,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            361.4099426269531,
+            650.462646484375,
+            636.10595703125,
+            1054.893310546875
+          ],
+          "confidence": 0.9322502017021179,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 11,
+          "class_name": "dining table",
+          "bbox": [
+            433.41424560546875,
+            584.00390625,
+            720.0,
+            1101.112548828125
+          ],
+          "confidence": 0.8923464417457581,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 13,
+          "class_name": "oven",
+          "bbox": [
+            509.4522705078125,
+            391.2833251953125,
+            719.9552001953125,
+            596.3623046875
+          ],
+          "confidence": 0.8912975192070007,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            380.416748046875,
+            391.841552734375,
+            509.462646484375,
+            480.6461181640625
+          ],
+          "confidence": 0.8492118716239929,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 16,
+          "class_name": "microwave",
+          "bbox": [
+            552.3825073242188,
+            252.263427734375,
+            705.5855102539062,
+            355.38763427734375
+          ],
+          "confidence": 0.912895143032074,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 17,
+          "class_name": "microwave",
+          "bbox": [
+            269.09039306640625,
+            391.37310791015625,
+            381.2647705078125,
+            486.87200927734375
+          ],
+          "confidence": 0.49133455753326416,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 21,
+          "class_name": "chair",
+          "bbox": [
+            470.682373046875,
+            586.447509765625,
+            608.5086669921875,
+            619.716064453125
+          ],
+          "confidence": 0.7581294178962708,
+          "state": "static",
+          "state_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_idx": 290,
+      "timestamp_sec": 9.682,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            11.933685302734375,
+            248.09344482421875,
+            313.1754455566406,
+            833.4220581054688
+          ],
+          "confidence": 0.9467957019805908,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            398.6014709472656,
+            665.7342529296875,
+            692.9530029296875,
+            1095.5867919921875
+          ],
+          "confidence": 0.9369471669197083,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 11,
+          "class_name": "dining table",
+          "bbox": [
+            474.97589111328125,
+            596.1136474609375,
+            720.0,
+            1046.63525390625
+          ],
+          "confidence": 0.4610379636287689,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 13,
+          "class_name": "oven",
+          "bbox": [
+            551.335693359375,
+            389.13995361328125,
+            720.0,
+            610.034912109375
+          ],
+          "confidence": 0.9166228771209717,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            417.37225341796875,
+            390.00006103515625,
+            551.9942626953125,
+            481.47674560546875
+          ],
+          "confidence": 0.7687857747077942,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 16,
+          "class_name": "microwave",
+          "bbox": [
+            596.922119140625,
+            243.95375061035156,
+            719.716796875,
+            351.5977783203125
+          ],
+          "confidence": 0.8933658599853516,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 17,
+          "class_name": "microwave",
+          "bbox": [
+            303.8691101074219,
+            392.4556884765625,
+            419.9251403808594,
+            487.9598388671875
+          ],
+          "confidence": 0.5575931072235107,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 21,
+          "class_name": "chair",
+          "bbox": [
+            513.9600830078125,
+            593.5890502929688,
+            658.4176025390625,
+            631.1480102539062
+          ],
+          "confidence": 0.7347911596298218,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 22,
+          "class_name": "dining table",
+          "bbox": [
+            470.3148193359375,
+            599.1162109375,
+            719.96044921875,
+            784.744873046875
+          ],
+          "confidence": 0.5325219631195068,
+          "state": "static",
+          "state_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_idx": 295,
+      "timestamp_sec": 9.849,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            9.21197509765625,
+            236.01214599609375,
+            342.5938720703125,
+            846.3063354492188
+          ],
+          "confidence": 0.9329586625099182,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            440.0531311035156,
+            675.2308349609375,
+            720.0,
+            1136.0672607421875
+          ],
+          "confidence": 0.945679783821106,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 11,
+          "class_name": "dining table",
+          "bbox": [
+            517.5023193359375,
+            612.7658081054688,
+            720.0,
+            781.7286987304688
+          ],
+          "confidence": 0.5547861456871033,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 13,
+          "class_name": "oven",
+          "bbox": [
+            589.6585693359375,
+            384.7314453125,
+            719.98828125,
+            614.795166015625
+          ],
+          "confidence": 0.859795331954956,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            453.01495361328125,
+            384.6358642578125,
+            591.2822875976562,
+            479.298095703125
+          ],
+          "confidence": 0.8770915269851685,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 16,
+          "class_name": "microwave",
+          "bbox": [
+            639.8909912109375,
+            232.00344848632812,
+            719.7808837890625,
+            344.3171081542969
+          ],
+          "confidence": 0.7911170721054077,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 17,
+          "class_name": "microwave",
+          "bbox": [
+            336.40936279296875,
+            388.5821533203125,
+            458.3160400390625,
+            487.20947265625
+          ],
+          "confidence": 0.7363117337226868,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 21,
+          "class_name": "chair",
+          "bbox": [
+            562.2774658203125,
+            597.4576416015625,
+            716.6837158203125,
+            637.1177978515625
+          ],
+          "confidence": 0.6273186802864075,
+          "state": "static",
+          "state_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_idx": 300,
+      "timestamp_sec": 10.016,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            24.80267333984375,
+            230.08050537109375,
+            372.35150146484375,
+            868.3651733398438
+          ],
+          "confidence": 0.9492947459220886,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            479.9136962890625,
+            696.81103515625,
+            719.12939453125,
+            1199.776611328125
+          ],
+          "confidence": 0.933686375617981,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 11,
+          "class_name": "dining table",
+          "bbox": [
+            567.7191162109375,
+            637.5374755859375,
+            720.0,
+            782.9854736328125
+          ],
+          "confidence": 0.44482454657554626,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            485.88189697265625,
+            385.40191650390625,
+            628.5590209960938,
+            486.20465087890625
+          ],
+          "confidence": 0.8790621757507324,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 17,
+          "class_name": "microwave",
+          "bbox": [
+            367.13037109375,
+            390.36004638671875,
+            490.006103515625,
+            492.83123779296875
+          ],
+          "confidence": 0.7689216732978821,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 21,
+          "class_name": "chair",
+          "bbox": [
+            608.6044921875,
+            611.8277587890625,
+            720.0,
+            656.878173828125
+          ],
+          "confidence": 0.8194079995155334,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 23,
+          "class_name": "oven",
+          "bbox": [
+            629.342529296875,
+            388.4923400878906,
+            719.73095703125,
+            477.2941589355469
+          ],
+          "confidence": 0.5935904383659363,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 305,
+      "timestamp_sec": 10.183,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            34.007354736328125,
+            221.86676025390625,
+            391.5260314941406,
+            886.9934692382812
+          ],
+          "confidence": 0.9531214833259583,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            507.9906005859375,
+            721.0697021484375,
+            719.815185546875,
+            1261.655029296875
+          ],
+          "confidence": 0.9358854293823242,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            507.185302734375,
+            382.48883056640625,
+            659.2183837890625,
+            486.92401123046875
+          ],
+          "confidence": 0.789522111415863,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 17,
+          "class_name": "microwave",
+          "bbox": [
+            387.2215576171875,
+            387.8052978515625,
+            509.7645263671875,
+            497.2850341796875
+          ],
+          "confidence": 0.554246187210083,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 21,
+          "class_name": "chair",
+          "bbox": [
+            644.216064453125,
+            624.146728515625,
+            720.0,
+            674.9039306640625
+          ],
+          "confidence": 0.6722654700279236,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 23,
+          "class_name": "oven",
+          "bbox": [
+            655.7210693359375,
+            385.71575927734375,
+            719.5020751953125,
+            476.91021728515625
+          ],
+          "confidence": 0.3566405177116394,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 310,
+      "timestamp_sec": 10.349,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            46.1273193359375,
+            199.84402465820312,
+            416.8369140625,
+            897.636962890625
+          ],
+          "confidence": 0.9496938586235046,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 9,
+          "class_name": "chair",
+          "bbox": [
+            542.1427001953125,
+            732.419189453125,
+            719.3306884765625,
+            1277.496337890625
+          ],
+          "confidence": 0.4747600853443146,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            533.992431640625,
+            370.999267578125,
+            698.6669921875,
+            481.7392578125
+          ],
+          "confidence": 0.6408854722976685,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 17,
+          "class_name": "microwave",
+          "bbox": [
+            413.44647216796875,
+            380.1019287109375,
+            540.8538818359375,
+            490.1751708984375
+          ],
+          "confidence": 0.6512365937232971,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 18,
+          "class_name": "chair",
+          "bbox": [
+            542.24072265625,
+            731.9534912109375,
+            720.0,
+            1106.8509521484375
+          ],
+          "confidence": 0.6700286865234375,
+          "state": "static",
+          "state_confidence": 0.9
+        },
+        {
+          "track_id": 24,
+          "class_name": "microwave",
+          "bbox": [
+            413.986083984375,
+            372.05059814453125,
+            698.7122802734375,
+            487.73382568359375
+          ],
+          "confidence": 0.3590763509273529,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 315,
+      "timestamp_sec": 10.516,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            67.41656494140625,
+            177.7783203125,
+            457.7913818359375,
+            913.8048095703125
+          ],
+          "confidence": 0.9549692273139954,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 12,
+          "class_name": "microwave",
+          "bbox": [
+            580.7264404296875,
+            356.41387939453125,
+            719.1693115234375,
+            474.0621337890625
+          ],
+          "confidence": 0.6266225576400757,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            451.36212158203125,
+            360.3165283203125,
+            717.7147827148438,
+            483.7509765625
+          ],
+          "confidence": 0.4550822675228119,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 17,
+          "class_name": "microwave",
+          "bbox": [
+            451.8828125,
+            367.90997314453125,
+            590.2310791015625,
+            486.39434814453125
+          ],
+          "confidence": 0.7127715349197388,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 320,
+      "timestamp_sec": 10.683,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            100.01344299316406,
+            157.62527465820312,
+            509.7008056640625,
+            937.329833984375
+          ],
+          "confidence": 0.9253787398338318,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 12,
+          "class_name": "microwave",
+          "bbox": [
+            501.88720703125,
+            344.0484619140625,
+            719.1243896484375,
+            482.5386962890625
+          ],
+          "confidence": 0.6825886368751526,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 15,
+          "class_name": "microwave",
+          "bbox": [
+            501.6507568359375,
+            356.00445556640625,
+            645.6085205078125,
+            486.94976806640625
+          ],
+          "confidence": 0.5330188274383545,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 25,
+          "class_name": "microwave",
+          "bbox": [
+            640.2702026367188,
+            348.9691162109375,
+            720.0,
+            470.17657470703125
+          ],
+          "confidence": 0.496261864900589,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 325,
+      "timestamp_sec": 10.85,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            131.5921173095703,
+            130.0,
+            536.0231323242188,
+            957.43115234375
+          ],
+          "confidence": 0.946607232093811,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 12,
+          "class_name": "microwave",
+          "bbox": [
+            530.63818359375,
+            339.1141357421875,
+            688.875244140625,
+            482.0157470703125
+          ],
+          "confidence": 0.8370628952980042,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 330,
+      "timestamp_sec": 11.017,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            141.740478515625,
+            67.12881469726562,
+            574.9058837890625,
+            960.8404541015625
+          ],
+          "confidence": 0.9169641137123108,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 12,
+          "class_name": "microwave",
+          "bbox": [
+            564.622802734375,
+            300.03741455078125,
+            719.3182373046875,
+            456.21844482421875
+          ],
+          "confidence": 0.8483469486236572,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 26,
+          "class_name": "microwave",
+          "bbox": [
+            143.81944274902344,
+            0.2047271728515625,
+            510.206298828125,
+            53.82924270629883
+          ],
+          "confidence": 0.4742925763130188,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 335,
+      "timestamp_sec": 11.184,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            129.57275390625,
+            14.681640625,
+            628.5375366210938,
+            958.8411865234375
+          ],
+          "confidence": 0.9055178761482239,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 12,
+          "class_name": "microwave",
+          "bbox": [
+            613.9136352539062,
+            272.2703857421875,
+            718.9099731445312,
+            431.97210693359375
+          ],
+          "confidence": 0.5579718351364136,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 340,
+      "timestamp_sec": 11.351,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            159.524658203125,
+            1.39404296875,
+            673.46630859375,
+            967.07666015625
+          ],
+          "confidence": 0.8736698031425476,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 345,
+      "timestamp_sec": 11.518,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            151.91619873046875,
+            1.71551513671875,
+            714.332763671875,
+            975.2044067382812
+          ],
+          "confidence": 0.8861016035079956,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 350,
+      "timestamp_sec": 11.685,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            154.7620849609375,
+            2.479736328125,
+            719.2405395507812,
+            969.9935302734375
+          ],
+          "confidence": 0.8841882944107056,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 355,
+      "timestamp_sec": 11.852,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            127.25238037109375,
+            2.1522216796875,
+            719.892822265625,
+            977.8463134765625
+          ],
+          "confidence": 0.9000961184501648,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 360,
+      "timestamp_sec": 12.019,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            101.0855712890625,
+            1.5318603515625,
+            720.0,
+            973.3345947265625
+          ],
+          "confidence": 0.8992364406585693,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 365,
+      "timestamp_sec": 12.186,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            47.19244384765625,
+            0.8983154296875,
+            718.4012451171875,
+            992.0812377929688
+          ],
+          "confidence": 0.8753326535224915,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 370,
+      "timestamp_sec": 12.353,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            22.84967041015625,
+            1.5928955078125,
+            719.2278442382812,
+            992.0546875
+          ],
+          "confidence": 0.8647805452346802,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 375,
+      "timestamp_sec": 12.52,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            8.8338623046875,
+            3.51824951171875,
+            720.0,
+            1013.3274536132812
+          ],
+          "confidence": 0.8165559768676758,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 380,
+      "timestamp_sec": 12.686,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            8.6038818359375,
+            25.09033203125,
+            720.0,
+            1062.2913818359375
+          ],
+          "confidence": 0.4445975124835968,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 385,
+      "timestamp_sec": 12.853,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            12.65594482421875,
+            17.9176025390625,
+            719.6961059570312,
+            1078.9451904296875
+          ],
+          "confidence": 0.6284372806549072,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 390,
+      "timestamp_sec": 13.02,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            2.6885986328125,
+            29.93017578125,
+            719.9178466796875,
+            1107.42626953125
+          ],
+          "confidence": 0.6620628833770752,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 395,
+      "timestamp_sec": 13.187,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            27.888427734375,
+            720.0,
+            1122.361572265625
+          ],
+          "confidence": 0.7551516890525818,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 400,
+      "timestamp_sec": 13.354,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            12.041015625,
+            720.0,
+            1144.013916015625
+          ],
+          "confidence": 0.608992874622345,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 405,
+      "timestamp_sec": 13.521,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            14.44140625,
+            720.0,
+            1142.689208984375
+          ],
+          "confidence": 0.5333715677261353,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 410,
+      "timestamp_sec": 13.688,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.223876953125,
+            23.4654541015625,
+            720.0,
+            1150.9344482421875
+          ],
+          "confidence": 0.6176256537437439,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 415,
+      "timestamp_sec": 13.855,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            36.9188232421875,
+            719.656494140625,
+            1232.7642822265625
+          ],
+          "confidence": 0.6550673842430115,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 420,
+      "timestamp_sec": 14.022,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            30.141845703125,
+            720.0,
+            1270.820068359375
+          ],
+          "confidence": 0.860724151134491,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 425,
+      "timestamp_sec": 14.189,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            6.38323974609375,
+            36.8892822265625,
+            720.0,
+            1268.5013427734375
+          ],
+          "confidence": 0.898600161075592,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 27,
+          "class_name": "bottle",
+          "bbox": [
+            257.817138671875,
+            298.701171875,
+            357.2030029296875,
+            449.56317138671875
+          ],
+          "confidence": 0.6831619143486023,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 28,
+          "class_name": "bottle",
+          "bbox": [
+            129.80313110351562,
+            281.729248046875,
+            270.2956237792969,
+            485.266357421875
+          ],
+          "confidence": 0.5159779191017151,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 29,
+          "class_name": "bottle",
+          "bbox": [
+            15.524372100830078,
+            420.24871826171875,
+            123.51487731933594,
+            545.213134765625
+          ],
+          "confidence": 0.5045567750930786,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 30,
+          "class_name": "bottle",
+          "bbox": [
+            113.05886840820312,
+            412.80267333984375,
+            220.7767333984375,
+            514.7658081054688
+          ],
+          "confidence": 0.39637020230293274,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 31,
+          "class_name": "bottle",
+          "bbox": [
+            326.22607421875,
+            279.1177978515625,
+            416.1202392578125,
+            393.5928955078125
+          ],
+          "confidence": 0.3543187379837036,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 430,
+      "timestamp_sec": 14.356,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            2.9678955078125,
+            34.5318603515625,
+            720.0,
+            1271.571044921875
+          ],
+          "confidence": 0.8384273052215576,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 27,
+          "class_name": "bottle",
+          "bbox": [
+            280.1335144042969,
+            300.85101318359375,
+            355.1814880371094,
+            435.3551025390625
+          ],
+          "confidence": 0.4476984441280365,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 28,
+          "class_name": "bottle",
+          "bbox": [
+            87.5057144165039,
+            300.93072509765625,
+            214.21316528320312,
+            455.75286865234375
+          ],
+          "confidence": 0.4748399555683136,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 29,
+          "class_name": "bottle",
+          "bbox": [
+            0.8974685668945312,
+            437.96392822265625,
+            93.55773162841797,
+            576.8959350585938
+          ],
+          "confidence": 0.5015735626220703,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 32,
+          "class_name": "bottle",
+          "bbox": [
+            213.7353973388672,
+            318.8740234375,
+            314.71368408203125,
+            474.33477783203125
+          ],
+          "confidence": 0.7080633640289307,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 435,
+      "timestamp_sec": 14.523,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            11.41802978515625,
+            1.07421875,
+            673.90185546875,
+            1269.32763671875
+          ],
+          "confidence": 0.7530838251113892,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 28,
+          "class_name": "bottle",
+          "bbox": [
+            139.66571044921875,
+            339.275390625,
+            248.53802490234375,
+            485.8543701171875
+          ],
+          "confidence": 0.514188289642334,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 32,
+          "class_name": "bottle",
+          "bbox": [
+            202.46453857421875,
+            319.75909423828125,
+            289.7451171875,
+            453.35223388671875
+          ],
+          "confidence": 0.49339285492897034,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 440,
+      "timestamp_sec": 14.69,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            0.9715576171875,
+            693.0458984375,
+            1264.90234375
+          ],
+          "confidence": 0.8580944538116455,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 33,
+          "class_name": "bottle",
+          "bbox": [
+            29.389892578125,
+            353.4791259765625,
+            144.8316650390625,
+            497.8321533203125
+          ],
+          "confidence": 0.5239672660827637,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 34,
+          "class_name": "bottle",
+          "bbox": [
+            95.51686096191406,
+            333.658447265625,
+            188.70423889160156,
+            465.691162109375
+          ],
+          "confidence": 0.4764409363269806,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 35,
+          "class_name": "oven",
+          "bbox": [
+            493.2958984375,
+            0.7787933349609375,
+            637.160888671875,
+            149.76170349121094
+          ],
+          "confidence": 0.45876139402389526,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 445,
+      "timestamp_sec": 14.856,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            1.245361328125,
+            687.5234375,
+            1230.73291015625
+          ],
+          "confidence": 0.7354245781898499,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 33,
+          "class_name": "bottle",
+          "bbox": [
+            20.206771850585938,
+            343.33770751953125,
+            111.10575866699219,
+            475.28411865234375
+          ],
+          "confidence": 0.46677127480506897,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 35,
+          "class_name": "oven",
+          "bbox": [
+            540.431884765625,
+            0.8060684204101562,
+            719.080322265625,
+            99.84091186523438
+          ],
+          "confidence": 0.5256763100624084,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 36,
+          "class_name": "bottle",
+          "bbox": [
+            1.0530548095703125,
+            364.3668518066406,
+            70.40763854980469,
+            507.2935485839844
+          ],
+          "confidence": 0.41306763887405396,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 450,
+      "timestamp_sec": 15.023,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            1.31884765625,
+            659.8818359375,
+            1248.72607421875
+          ],
+          "confidence": 0.8096134066581726,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 36,
+          "class_name": "bottle",
+          "bbox": [
+            0.13809776306152344,
+            294.5654296875,
+            61.671485900878906,
+            499.6749267578125
+          ],
+          "confidence": 0.37098127603530884,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            482.00482177734375,
+            0.7767715454101562,
+            715.4495239257812,
+            103.2287368774414
+          ],
+          "confidence": 0.7093926072120667,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 38,
+          "class_name": "bottle",
+          "bbox": [
+            350.59808349609375,
+            896.084716796875,
+            451.33050537109375,
+            1045.516357421875
+          ],
+          "confidence": 0.3624183237552643,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 455,
+      "timestamp_sec": 15.19,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            1.082275390625,
+            640.2596435546875,
+            1253.1649169921875
+          ],
+          "confidence": 0.7672562003135681,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            456.9053039550781,
+            0.5827713012695312,
+            695.2890625,
+            109.40642547607422
+          ],
+          "confidence": 0.7675622701644897,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 38,
+          "class_name": "bottle",
+          "bbox": [
+            343.72735595703125,
+            899.931396484375,
+            432.69696044921875,
+            1043.41064453125
+          ],
+          "confidence": 0.503246009349823,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 39,
+          "class_name": "bottle",
+          "bbox": [
+            305.3826904296875,
+            901.751708984375,
+            370.0770263671875,
+            1006.107421875
+          ],
+          "confidence": 0.406684547662735,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 460,
+      "timestamp_sec": 15.357,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            0.0,
+            623.3541870117188,
+            1264.9234619140625
+          ],
+          "confidence": 0.7396656274795532,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            462.9617919921875,
+            0.4750518798828125,
+            702.1568603515625,
+            117.47341918945312
+          ],
+          "confidence": 0.6861230134963989,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 38,
+          "class_name": "bottle",
+          "bbox": [
+            337.0262145996094,
+            906.314453125,
+            428.9397888183594,
+            1052.184814453125
+          ],
+          "confidence": 0.4982168674468994,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 465,
+      "timestamp_sec": 15.524,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            0.0,
+            614.8651733398438,
+            1261.977294921875
+          ],
+          "confidence": 0.7203071713447571,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 33,
+          "class_name": "bottle",
+          "bbox": [
+            0.04871368408203125,
+            363.16845703125,
+            68.66170501708984,
+            496.832763671875
+          ],
+          "confidence": 0.5496536493301392,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            493.85693359375,
+            0.6399993896484375,
+            719.0662841796875,
+            129.74412536621094
+          ],
+          "confidence": 0.584194004535675,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 38,
+          "class_name": "bottle",
+          "bbox": [
+            340.95831298828125,
+            911.70703125,
+            425.75531005859375,
+            1060.4345703125
+          ],
+          "confidence": 0.5506128072738647,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 39,
+          "class_name": "bottle",
+          "bbox": [
+            308.0362854003906,
+            911.6546630859375,
+            363.9992370605469,
+            1017.1304931640625
+          ],
+          "confidence": 0.4695965647697449,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 470,
+      "timestamp_sec": 15.691,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            0.0,
+            596.36767578125,
+            1258.150146484375
+          ],
+          "confidence": 0.8586646914482117,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 29,
+          "class_name": "bottle",
+          "bbox": [
+            0.365966796875,
+            397.96722412109375,
+            84.51455688476562,
+            542.9302978515625
+          ],
+          "confidence": 0.49443814158439636,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 35,
+          "class_name": "oven",
+          "bbox": [
+            552.0693359375,
+            0.5467071533203125,
+            719.3277587890625,
+            148.36923217773438
+          ],
+          "confidence": 0.48218071460723877,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 38,
+          "class_name": "bottle",
+          "bbox": [
+            353.1684875488281,
+            937.3461303710938,
+            430.5931701660156,
+            1152.337890625
+          ],
+          "confidence": 0.5100806355476379,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 40,
+          "class_name": "oven",
+          "bbox": [
+            407.7486572265625,
+            0.4055328369140625,
+            560.2208251953125,
+            206.05715942382812
+          ],
+          "confidence": 0.6242570877075195,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 41,
+          "class_name": "bottle",
+          "bbox": [
+            32.604156494140625,
+            378.67559814453125,
+            126.48663330078125,
+            508.71038818359375
+          ],
+          "confidence": 0.4074975550174713,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 475,
+      "timestamp_sec": 15.858,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            0.0,
+            536.3668212890625,
+            1270.665283203125
+          ],
+          "confidence": 0.704457700252533,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 29,
+          "class_name": "bottle",
+          "bbox": [
+            31.503311157226562,
+            418.603515625,
+            140.849853515625,
+            561.184814453125
+          ],
+          "confidence": 0.5576453804969788,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 30,
+          "class_name": "bottle",
+          "bbox": [
+            92.50149536132812,
+            400.6632080078125,
+            185.36734008789062,
+            530.139892578125
+          ],
+          "confidence": 0.44547539949417114,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 38,
+          "class_name": "bottle",
+          "bbox": [
+            334.71624755859375,
+            959.1458740234375,
+            397.26593017578125,
+            1177.9251708984375
+          ],
+          "confidence": 0.4705280065536499,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 40,
+          "class_name": "oven",
+          "bbox": [
+            480.15838623046875,
+            0.8225860595703125,
+            620.1787719726562,
+            230.20875549316406
+          ],
+          "confidence": 0.4523794949054718,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 480,
+      "timestamp_sec": 16.025,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            1.812744140625,
+            550.8317260742188,
+            1275.84716796875
+          ],
+          "confidence": 0.8414374589920044,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 29,
+          "class_name": "bottle",
+          "bbox": [
+            81.17355346679688,
+            440.35174560546875,
+            188.47781372070312,
+            584.2349243164062
+          ],
+          "confidence": 0.6051135659217834,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 35,
+          "class_name": "oven",
+          "bbox": [
+            541.529541015625,
+            0.0370941162109375,
+            664.807861328125,
+            249.63909912109375
+          ],
+          "confidence": 0.6251688599586487,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 485,
+      "timestamp_sec": 16.192,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.4747314453125,
+            1.8780517578125,
+            596.883056640625,
+            1273.751220703125
+          ],
+          "confidence": 0.8710187077522278,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 29,
+          "class_name": "bottle",
+          "bbox": [
+            118.74588012695312,
+            461.39166259765625,
+            223.20480346679688,
+            602.0667114257812
+          ],
+          "confidence": 0.786244809627533,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 35,
+          "class_name": "oven",
+          "bbox": [
+            594.5799560546875,
+            1.069580078125,
+            706.7728271484375,
+            264.28082275390625
+          ],
+          "confidence": 0.4726680517196655,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 42,
+          "class_name": "bottle",
+          "bbox": [
+            183.9561767578125,
+            442.9178466796875,
+            267.02972412109375,
+            564.6907958984375
+          ],
+          "confidence": 0.540759265422821,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 490,
+      "timestamp_sec": 16.359,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            2.7403564453125,
+            640.8922119140625,
+            1272.5291748046875
+          ],
+          "confidence": 0.8756484389305115,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 29,
+          "class_name": "bottle",
+          "bbox": [
+            143.52667236328125,
+            475.6993408203125,
+            228.84442138671875,
+            562.8426513671875
+          ],
+          "confidence": 0.5422239899635315,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 43,
+          "class_name": "bottle",
+          "bbox": [
+            21.183536529541016,
+            462.961181640625,
+            133.006591796875,
+            595.527587890625
+          ],
+          "confidence": 0.6605021953582764,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 44,
+          "class_name": "microwave",
+          "bbox": [
+            633.8598022460938,
+            8.57427978515625,
+            718.7229614257812,
+            271.45849609375
+          ],
+          "confidence": 0.500495195388794,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 495,
+      "timestamp_sec": 16.526,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            3.6683349609375,
+            663.9791870117188,
+            1272.56396484375
+          ],
+          "confidence": 0.9278256297111511,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 500,
+      "timestamp_sec": 16.693,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            3.75,
+            675.5300903320312,
+            1270.691650390625
+          ],
+          "confidence": 0.9016532897949219,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 505,
+      "timestamp_sec": 16.86,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            4.1663818359375,
+            690.7594604492188,
+            1270.95068359375
+          ],
+          "confidence": 0.8325227499008179,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 510,
+      "timestamp_sec": 17.027,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.1683349609375,
+            4.1143798828125,
+            692.9495849609375,
+            1276.7562255859375
+          ],
+          "confidence": 0.8464276194572449,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 515,
+      "timestamp_sec": 17.193,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            1.9097900390625,
+            3.1878662109375,
+            703.7490234375,
+            1273.9163818359375
+          ],
+          "confidence": 0.8043551445007324,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 520,
+      "timestamp_sec": 17.36,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.0,
+            3.650146484375,
+            609.2208251953125,
+            1272.005615234375
+          ],
+          "confidence": 0.7859600186347961,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 525,
+      "timestamp_sec": 17.527,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.10675048828125,
+            3.89453125,
+            537.3519287109375,
+            1269.9716796875
+          ],
+          "confidence": 0.6733441948890686,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            534.857177734375,
+            0.47943115234375,
+            661.38720703125,
+            227.81497192382812
+          ],
+          "confidence": 0.5056784152984619,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 530,
+      "timestamp_sec": 17.694,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.81707763671875,
+            4.4112548828125,
+            493.6378173828125,
+            1268.0240478515625
+          ],
+          "confidence": 0.6816425323486328,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 40,
+          "class_name": "oven",
+          "bbox": [
+            432.2122497558594,
+            0.5833892822265625,
+            617.3126220703125,
+            248.2378692626953
+          ],
+          "confidence": 0.3805321156978607,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 535,
+      "timestamp_sec": 17.861,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            1.021575927734375,
+            3.7451171875,
+            421.0271911621094,
+            1274.892822265625
+          ],
+          "confidence": 0.5268672108650208,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 35,
+          "class_name": "oven",
+          "bbox": [
+            559.7376098632812,
+            0.6935882568359375,
+            719.4168090820312,
+            192.57174682617188
+          ],
+          "confidence": 0.40513384342193604,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            558.486572265625,
+            0.90191650390625,
+            719.7916259765625,
+            192.5391845703125
+          ],
+          "confidence": 0.5923976898193359,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 40,
+          "class_name": "oven",
+          "bbox": [
+            305.06756591796875,
+            0.437042236328125,
+            563.8710327148438,
+            293.06951904296875
+          ],
+          "confidence": 0.42238783836364746,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 540,
+      "timestamp_sec": 18.028,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            3.37890625,
+            2.896240234375,
+            529.347412109375,
+            1160.58984375
+          ],
+          "confidence": 0.781506359577179,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            515.33056640625,
+            0.6836090087890625,
+            719.943603515625,
+            211.78907775878906
+          ],
+          "confidence": 0.8520992994308472,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 545,
+      "timestamp_sec": 18.195,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            0.723876953125,
+            0.0,
+            327.13873291015625,
+            1274.895263671875
+          ],
+          "confidence": 0.7345507740974426,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            489.229736328125,
+            0.2732696533203125,
+            719.612060546875,
+            228.03099060058594
+          ],
+          "confidence": 0.8996899127960205,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 40,
+          "class_name": "oven",
+          "bbox": [
+            71.1815185546875,
+            0.276458740234375,
+            494.9515380859375,
+            375.0411682128906
+          ],
+          "confidence": 0.4515704810619354,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            69.88037109375,
+            0.295074462890625,
+            494.239501953125,
+            373.8284606933594
+          ],
+          "confidence": 0.7114421129226685,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 550,
+      "timestamp_sec": 18.362,
+      "objects": [
+        {
+          "track_id": 6,
+          "class_name": "refrigerator",
+          "bbox": [
+            1.774932861328125,
+            19.8917236328125,
+            266.4749755859375,
+            1273.46142578125
+          ],
+          "confidence": 0.5539205074310303,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            467.48345947265625,
+            0.2353668212890625,
+            719.1152954101562,
+            243.6493377685547
+          ],
+          "confidence": 0.8636366128921509,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 40,
+          "class_name": "oven",
+          "bbox": [
+            2.79693603515625,
+            0.2998046875,
+            477.76800537109375,
+            408.317138671875
+          ],
+          "confidence": 0.6494705080986023,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            3.8604278564453125,
+            0.388275146484375,
+            477.62738037109375,
+            408.67718505859375
+          ],
+          "confidence": 0.7163364887237549,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 555,
+      "timestamp_sec": 18.529,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            446.0953674316406,
+            0.256011962890625,
+            719.0391845703125,
+            269.0107421875
+          ],
+          "confidence": 0.8835462331771851,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 40,
+          "class_name": "oven",
+          "bbox": [
+            1.655059814453125,
+            0.252197265625,
+            455.0299377441406,
+            448.51544189453125
+          ],
+          "confidence": 0.6511267423629761,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.1507568359375,
+            0.0,
+            455.61199951171875,
+            449.6900634765625
+          ],
+          "confidence": 0.6911211013793945,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 560,
+      "timestamp_sec": 18.696,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            425.26568603515625,
+            0.26104736328125,
+            719.3908081054688,
+            295.9390869140625
+          ],
+          "confidence": 0.8785203695297241,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 40,
+          "class_name": "oven",
+          "bbox": [
+            1.680389404296875,
+            0.0,
+            435.1794128417969,
+            469.9692687988281
+          ],
+          "confidence": 0.6980712413787842,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            2.04254150390625,
+            0.049896240234375,
+            435.3658447265625,
+            469.63031005859375
+          ],
+          "confidence": 0.6478142738342285,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 565,
+      "timestamp_sec": 18.863,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            410.9749450683594,
+            0.29052734375,
+            719.2821044921875,
+            305.27532958984375
+          ],
+          "confidence": 0.8851182460784912,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 40,
+          "class_name": "oven",
+          "bbox": [
+            1.241943359375,
+            0.020416259765625,
+            425.0587158203125,
+            468.8534240722656
+          ],
+          "confidence": 0.5050991177558899,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            2.18499755859375,
+            0.501068115234375,
+            424.646484375,
+            469.70367431640625
+          ],
+          "confidence": 0.8592106103897095,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 570,
+      "timestamp_sec": 19.03,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            418.8988037109375,
+            0.57598876953125,
+            719.1009521484375,
+            312.6854248046875
+          ],
+          "confidence": 0.731270968914032,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            2.9378662109375,
+            0.593170166015625,
+            429.13568115234375,
+            464.85308837890625
+          ],
+          "confidence": 0.873970627784729,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 575,
+      "timestamp_sec": 19.197,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            423.1446533203125,
+            0.885498046875,
+            719.0460205078125,
+            334.18719482421875
+          ],
+          "confidence": 0.7830740809440613,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.8533935546875,
+            0.481109619140625,
+            432.27569580078125,
+            468.1099548339844
+          ],
+          "confidence": 0.8600816130638123,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 580,
+      "timestamp_sec": 19.364,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            453.77105712890625,
+            0.75604248046875,
+            718.6239624023438,
+            351.60986328125
+          ],
+          "confidence": 0.8603317737579346,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            2.71197509765625,
+            0.47674560546875,
+            456.74609375,
+            476.24560546875
+          ],
+          "confidence": 0.8428744077682495,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 585,
+      "timestamp_sec": 19.53,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            488.053466796875,
+            1.115203857421875,
+            718.850830078125,
+            352.0350036621094
+          ],
+          "confidence": 0.7543700933456421,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            0.2347412109375,
+            2.218719482421875,
+            485.072998046875,
+            461.8049621582031
+          ],
+          "confidence": 0.8321627378463745,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 590,
+      "timestamp_sec": 19.697,
+      "objects": []
+    },
+    {
+      "frame_idx": 595,
+      "timestamp_sec": 19.864,
+      "objects": [
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.63995361328125,
+            0.859588623046875,
+            515.6414794921875,
+            464.5142517089844
+          ],
+          "confidence": 0.7377528548240662,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 600,
+      "timestamp_sec": 20.031,
+      "objects": [
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.784423828125,
+            1.132354736328125,
+            529.59228515625,
+            450.45782470703125
+          ],
+          "confidence": 0.835828423500061,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 605,
+      "timestamp_sec": 20.198,
+      "objects": [
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            3.55059814453125,
+            1.096954345703125,
+            530.9578247070312,
+            422.3211669921875
+          ],
+          "confidence": 0.7450996041297913,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 610,
+      "timestamp_sec": 20.365,
+      "objects": [
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            2.52520751953125,
+            1.129119873046875,
+            540.8883056640625,
+            400.97174072265625
+          ],
+          "confidence": 0.7621503472328186,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 615,
+      "timestamp_sec": 20.532,
+      "objects": [
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            0.8466796875,
+            1.0665283203125,
+            571.646484375,
+            366.7830810546875
+          ],
+          "confidence": 0.539110004901886,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 46,
+          "class_name": "refrigerator",
+          "bbox": [
+            564.29833984375,
+            1.406707763671875,
+            719.29296875,
+            266.1421813964844
+          ],
+          "confidence": 0.45689624547958374,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 620,
+      "timestamp_sec": 20.699,
+      "objects": [
+        {
+          "track_id": 40,
+          "class_name": "oven",
+          "bbox": [
+            2.49609375,
+            0.71630859375,
+            586.056640625,
+            340.800048828125
+          ],
+          "confidence": 0.497712641954422,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            0.0,
+            1.03857421875,
+            588.0984497070312,
+            336.54595947265625
+          ],
+          "confidence": 0.7054290175437927,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 46,
+          "class_name": "refrigerator",
+          "bbox": [
+            579.5023193359375,
+            0.645477294921875,
+            719.7271728515625,
+            240.5059814453125
+          ],
+          "confidence": 0.37442049384117126,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 625,
+      "timestamp_sec": 20.866,
+      "objects": [
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.11151123046875,
+            0.8865966796875,
+            574.1644287109375,
+            301.4955749511719
+          ],
+          "confidence": 0.8382863402366638,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 46,
+          "class_name": "refrigerator",
+          "bbox": [
+            569.3927001953125,
+            1.05718994140625,
+            719.5142822265625,
+            212.947021484375
+          ],
+          "confidence": 0.5558324456214905,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 630,
+      "timestamp_sec": 21.033,
+      "objects": [
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.2545166015625,
+            0.94097900390625,
+            560.2862548828125,
+            277.3955993652344
+          ],
+          "confidence": 0.7548410296440125,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 635,
+      "timestamp_sec": 21.2,
+      "objects": [
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.287109375,
+            0.771575927734375,
+            549.1974487304688,
+            268.8288269042969
+          ],
+          "confidence": 0.7254188060760498,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 47,
+          "class_name": "oven",
+          "bbox": [
+            548.22314453125,
+            0.961883544921875,
+            719.525390625,
+            189.59686279296875
+          ],
+          "confidence": 0.3556000590324402,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 640,
+      "timestamp_sec": 21.367,
+      "objects": [
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.0672607421875,
+            0.880828857421875,
+            540.3619384765625,
+            271.88177490234375
+          ],
+          "confidence": 0.798197329044342,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 47,
+          "class_name": "oven",
+          "bbox": [
+            542.8551635742188,
+            0.8684539794921875,
+            719.4712524414062,
+            191.82513427734375
+          ],
+          "confidence": 0.439715176820755,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 645,
+      "timestamp_sec": 21.534,
+      "objects": [
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            0.36614990234375,
+            0.722412109375,
+            530.0191040039062,
+            273.5899658203125
+          ],
+          "confidence": 0.8659378886222839,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 47,
+          "class_name": "oven",
+          "bbox": [
+            533.9591064453125,
+            0.8690032958984375,
+            719.475341796875,
+            196.0108642578125
+          ],
+          "confidence": 0.5313869714736938,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 650,
+      "timestamp_sec": 21.7,
+      "objects": [
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            0.0640869140625,
+            0.729278564453125,
+            518.8088989257812,
+            276.2449645996094
+          ],
+          "confidence": 0.8751482963562012,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 47,
+          "class_name": "oven",
+          "bbox": [
+            518.772216796875,
+            1.0010223388671875,
+            719.664306640625,
+            201.21641540527344
+          ],
+          "confidence": 0.5381449460983276,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 655,
+      "timestamp_sec": 21.867,
+      "objects": [
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.4473876953125,
+            1.259765625,
+            504.93719482421875,
+            282.94293212890625
+          ],
+          "confidence": 0.8609479069709778,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 47,
+          "class_name": "oven",
+          "bbox": [
+            508.7786865234375,
+            0.95233154296875,
+            719.6702880859375,
+            204.780517578125
+          ],
+          "confidence": 0.5046406984329224,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 48,
+          "class_name": "sink",
+          "bbox": [
+            0.537841796875,
+            474.40667724609375,
+            718.865966796875,
+            977.0054321289062
+          ],
+          "confidence": 0.3519041836261749,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 660,
+      "timestamp_sec": 22.034,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            492.958984375,
+            0.628875732421875,
+            718.764404296875,
+            212.71139526367188
+          ],
+          "confidence": 0.6283060908317566,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            2.31463623046875,
+            1.110504150390625,
+            490.42828369140625,
+            296.2265625
+          ],
+          "confidence": 0.8060116171836853,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 47,
+          "class_name": "oven",
+          "bbox": [
+            493.71435546875,
+            1.183868408203125,
+            719.558837890625,
+            212.48626708984375
+          ],
+          "confidence": 0.5227898955345154,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 49,
+          "class_name": "sink",
+          "bbox": [
+            597.813720703125,
+            522.4095458984375,
+            719.73583984375,
+            729.185302734375
+          ],
+          "confidence": 0.5307386517524719,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 665,
+      "timestamp_sec": 22.201,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            480.84979248046875,
+            0.8558349609375,
+            719.4489135742188,
+            215.3524169921875
+          ],
+          "confidence": 0.6406358480453491,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            2.4892120361328125,
+            0.989410400390625,
+            477.19696044921875,
+            300.18035888671875
+          ],
+          "confidence": 0.7650555372238159,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 47,
+          "class_name": "oven",
+          "bbox": [
+            482.2325744628906,
+            1.2021026611328125,
+            718.8870849609375,
+            215.15538024902344
+          ],
+          "confidence": 0.45132529735565186,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 670,
+      "timestamp_sec": 22.368,
+      "objects": [
+        {
+          "track_id": 40,
+          "class_name": "oven",
+          "bbox": [
+            1.2391357421875,
+            0.78814697265625,
+            475.100830078125,
+            310.3858337402344
+          ],
+          "confidence": 0.5857122540473938,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            2.7791595458984375,
+            1.03314208984375,
+            473.5430908203125,
+            309.81365966796875
+          ],
+          "confidence": 0.43648529052734375,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 47,
+          "class_name": "oven",
+          "bbox": [
+            476.7595520019531,
+            0.70916748046875,
+            718.779052734375,
+            221.46389770507812
+          ],
+          "confidence": 0.675753116607666,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 675,
+      "timestamp_sec": 22.535,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            468.845458984375,
+            1.09320068359375,
+            719.43994140625,
+            246.86917114257812
+          ],
+          "confidence": 0.6188366413116455,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 40,
+          "class_name": "oven",
+          "bbox": [
+            1.745391845703125,
+            1.148529052734375,
+            473.3690490722656,
+            340.22723388671875
+          ],
+          "confidence": 0.6629974246025085,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            2.7590179443359375,
+            1.15057373046875,
+            473.22314453125,
+            339.50384521484375
+          ],
+          "confidence": 0.49345797300338745,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 47,
+          "class_name": "oven",
+          "bbox": [
+            469.7088317871094,
+            0.762847900390625,
+            718.7476806640625,
+            246.87698364257812
+          ],
+          "confidence": 0.35316500067710876,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 680,
+      "timestamp_sec": 22.702,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            459.3897705078125,
+            0.743804931640625,
+            718.7811279296875,
+            280.5291748046875
+          ],
+          "confidence": 0.7954925894737244,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            2.752685546875,
+            0.74957275390625,
+            460.58062744140625,
+            378.5135498046875
+          ],
+          "confidence": 0.8591657280921936,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 685,
+      "timestamp_sec": 22.869,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            438.8367919921875,
+            1.302337646484375,
+            719.278564453125,
+            308.9224853515625
+          ],
+          "confidence": 0.8219947814941406,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            3.68280029296875,
+            1.027252197265625,
+            443.453857421875,
+            405.10333251953125
+          ],
+          "confidence": 0.907471239566803,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 690,
+      "timestamp_sec": 23.036,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            423.556396484375,
+            1.5064697265625,
+            718.9444580078125,
+            328.84619140625
+          ],
+          "confidence": 0.7297929525375366,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            3.363189697265625,
+            1.30322265625,
+            429.1449890136719,
+            431.94927978515625
+          ],
+          "confidence": 0.9121426939964294,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 695,
+      "timestamp_sec": 23.203,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            418.24169921875,
+            1.4820556640625,
+            719.1961669921875,
+            344.96258544921875
+          ],
+          "confidence": 0.7357730865478516,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            3.921600341796875,
+            1.091766357421875,
+            422.34637451171875,
+            453.6436767578125
+          ],
+          "confidence": 0.880404531955719,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 700,
+      "timestamp_sec": 23.37,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            410.06298828125,
+            1.022430419921875,
+            718.86376953125,
+            353.2440490722656
+          ],
+          "confidence": 0.6855688691139221,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.24212646484375,
+            1.417999267578125,
+            418.5245361328125,
+            468.6055908203125
+          ],
+          "confidence": 0.8561882376670837,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 705,
+      "timestamp_sec": 23.537,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            404.7836608886719,
+            0.9993896484375,
+            718.92236328125,
+            335.5946960449219
+          ],
+          "confidence": 0.68106609582901,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.74310302734375,
+            0.8358154296875,
+            411.5946044921875,
+            457.87713623046875
+          ],
+          "confidence": 0.7408363223075867,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 710,
+      "timestamp_sec": 23.704,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            378.73931884765625,
+            1.287811279296875,
+            719.8281860351562,
+            294.8928527832031
+          ],
+          "confidence": 0.8631657361984253,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.24676513671875,
+            0.801544189453125,
+            392.04876708984375,
+            415.11932373046875
+          ],
+          "confidence": 0.9248786568641663,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 715,
+      "timestamp_sec": 23.871,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            356.68017578125,
+            0.4405059814453125,
+            719.6953125,
+            248.8739471435547
+          ],
+          "confidence": 0.842293918132782,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            2.711517333984375,
+            1.160125732421875,
+            370.4178466796875,
+            366.3335876464844
+          ],
+          "confidence": 0.9159268736839294,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 720,
+      "timestamp_sec": 24.037,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            346.9254150390625,
+            0.6396026611328125,
+            720.0,
+            241.10174560546875
+          ],
+          "confidence": 0.8984344601631165,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.586822509765625,
+            1.043243408203125,
+            365.1815185546875,
+            366.98046875
+          ],
+          "confidence": 0.9203897714614868,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 725,
+      "timestamp_sec": 24.204,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            359.09228515625,
+            0.372802734375,
+            719.717529296875,
+            259.46258544921875
+          ],
+          "confidence": 0.8010392785072327,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            1.281036376953125,
+            0.42523193359375,
+            376.2423400878906,
+            392.0921630859375
+          ],
+          "confidence": 0.8924371004104614,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 730,
+      "timestamp_sec": 24.371,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            391.12335205078125,
+            0.282989501953125,
+            719.6398315429688,
+            256.5241394042969
+          ],
+          "confidence": 0.8295062780380249,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            2.525604248046875,
+            1.088714599609375,
+            404.7630920410156,
+            401.1285705566406
+          ],
+          "confidence": 0.8582955002784729,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    },
+    {
+      "frame_idx": 735,
+      "timestamp_sec": 24.538,
+      "objects": [
+        {
+          "track_id": 37,
+          "class_name": "microwave",
+          "bbox": [
+            417.47705078125,
+            0.288787841796875,
+            718.9727783203125,
+            244.88673400878906
+          ],
+          "confidence": 0.8272913694381714,
+          "state": "unknown",
+          "state_confidence": 0.3
+        },
+        {
+          "track_id": 45,
+          "class_name": "microwave",
+          "bbox": [
+            2.52362060546875,
+            0.283111572265625,
+            427.6087646484375,
+            408.006103515625
+          ],
+          "confidence": 0.7839518189430237,
+          "state": "unknown",
+          "state_confidence": 0.3
+        }
+      ]
+    }
+  ],
+  "events": []
+}

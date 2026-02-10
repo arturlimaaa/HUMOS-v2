@@ -1,0 +1,86 @@
+{
+  "open": {
+    "preconditions": ["is_closed({noun})"],
+    "effects": ["is_open({noun})", "NOT is_closed({noun})"]
+  },
+  "close": {
+    "preconditions": ["is_open({noun})"],
+    "effects": ["is_closed({noun})", "NOT is_open({noun})"]
+  },
+  "take": {
+    "preconditions": ["hand_free(human)"],
+    "effects": ["holding(human, {noun})", "NOT hand_free(human)"]
+  },
+  "put": {
+    "preconditions": ["holding(human, {noun})"],
+    "effects": ["on({noun}, surface)", "hand_free(human)", "NOT holding(human, {noun})"]
+  },
+  "turn-on": {
+    "preconditions": ["is_off({noun})"],
+    "effects": ["is_on({noun})", "NOT is_off({noun})"]
+  },
+  "turn-off": {
+    "preconditions": ["is_on({noun})"],
+    "effects": ["is_off({noun})", "NOT is_on({noun})"]
+  },
+  "wash": {
+    "preconditions": ["at(human, sink)"],
+    "effects": ["is_clean({noun})"]
+  },
+  "cut": {
+    "preconditions": ["holding(human, knife)"],
+    "effects": ["is_cut({noun})"]
+  },
+  "pour": {
+    "preconditions": ["holding(human, {noun})"],
+    "effects": ["poured({noun})"]
+  },
+  "mix": {
+    "preconditions": ["holding(human, utensil)"],
+    "effects": ["is_mixed({noun})"]
+  },
+  "insert": {
+    "preconditions": ["holding(human, {noun})"],
+    "effects": ["inside({noun}, container)", "hand_free(human)"]
+  },
+  "remove": {
+    "preconditions": ["hand_free(human)"],
+    "effects": ["holding(human, {noun})", "NOT hand_free(human)"]
+  },
+  "move": {
+    "preconditions": ["reachable(human, {noun})"],
+    "effects": ["moved({noun})"]
+  },
+  "throw": {
+    "preconditions": ["holding(human, {noun})"],
+    "effects": ["hand_free(human)", "disposed({noun})"]
+  },
+  "peel": {
+    "preconditions": ["holding(human, {noun})"],
+    "effects": ["is_peeled({noun})"]
+  },
+  "squeeze": {
+    "preconditions": ["holding(human, {noun})"],
+    "effects": ["squeezed({noun})"]
+  },
+  "shake": {
+    "preconditions": ["holding(human, {noun})"],
+    "effects": ["shaken({noun})"]
+  },
+  "dry": {
+    "preconditions": ["is_wet({noun})"],
+    "effects": ["is_dry({noun})"]
+  },
+  "stir": {
+    "preconditions": ["holding(human, utensil)"],
+    "effects": ["is_stirred({noun})"]
+  },
+  "scoop": {
+    "preconditions": ["holding(human, utensil)"],
+    "effects": ["scooped({noun})"]
+  },
+  "adjust": {
+    "preconditions": ["reachable(human, {noun})"],
+    "effects": ["adjusted({noun})"]
+  }
+}
