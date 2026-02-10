@@ -1,10 +1,10 @@
-# World2Data: Action-Centric Ground Truth for Humanoid Navigation
+# HUMOS-v2: Action-Centric Ground Truth for Humanoid Navigation
 
 > The human's behavior IS the ground truth. Watch what people do, not what objects exist.
 
 ## What It Does
 
-World2Data watches humans in egocentric (first-person) kitchen video and automatically generates **structured action programs** -- the ground truth that humanoid robots need to learn navigation and manipulation.
+HUMOS-v2 watches humans in egocentric (first-person) kitchen video and automatically generates **structured action programs** -- the ground truth that humanoid robots need to learn navigation and manipulation.
 
 **Input**: Raw egocentric video of a human cooking, cleaning, navigating
 **Output**:
@@ -68,7 +68,7 @@ python3 main.py epic_video.mp4 --epic-csv data/epic_kitchens/EPIC_100_train.csv 
 ## Project Structure
 
 ```
-NavGraph-v2/
+HUMOS-v2/
   main.py                   # Pipeline orchestrator
   run_demo.py               # One-command demo runner
   hitl_app.py               # Gradio review UI
