@@ -287,6 +287,7 @@ def evaluate(
                 action_correct += 1
 
             matched_pairs.append({
+                "pred_segment_id": pred.segment_id,
                 "pred_verb": pred.verb, "pred_noun": pred.noun,
                 "gt_verb": gt.verb, "gt_noun": gt.noun,
                 "gt_narration": gt.narration,
